@@ -5,7 +5,7 @@ Dosen Pengampu : Bayu Adhi Nugroho, Ph.D.
 
 ---
 
-## 📌 Identitas 
+## Identitas 
 - **Nama** : Titha Auliya Khotim
 - **NIM** : 09010624017
 - **Kelas** : H7B.3  
@@ -16,7 +16,7 @@ Dosen Pengampu : Bayu Adhi Nugroho, Ph.D.
 
 ---
 
-## 📖 Pendahuluan  
+## Pendahuluan  
 Pemrograman Berorientasi Objek (PBO) adalah paradigma yang memodelkan program berdasarkan objek yang memiliki atribut (data) dan method (perilaku). Dengan pendekatan ini, program menjadi lebih terstruktur, mudah dipahami, dan mendekati gambaran dunia nyata.  
 
 Pada pertemuan sebelumnya telah dipelajari:  
@@ -33,7 +33,7 @@ Konsep utama dalam praktikum ini adalah:
 
 ---
 
-## 🚀 Implementasi  
+## Implementasi  
 
 ### Studi Kasus 1: Profesi (Abstract Class & Interface)  
 1. **Manusia** → kelas induk dengan atribut umum (`nama`, `jenisKelamin`) dan method `identitas()`.  
@@ -68,7 +68,7 @@ Konsep utama dalam praktikum ini adalah:
 
 ---
 
-## 📝 Kesimpulan  
+## Kesimpulan  
 
 ### Kesimpulan Abstract Class & Interface  
 - Abstract Class berfungsi sebagai kerangka dasar yang tidak bisa diinstansiasi langsung, tetapi wajib diisi oleh subclass.  
